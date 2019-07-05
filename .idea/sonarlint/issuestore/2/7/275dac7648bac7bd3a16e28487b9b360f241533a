@@ -1,0 +1,45 @@
+
+\
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(ãƒìÛøÿÿÿÿ8¨ãº’‹-
+Psquid:S1612¦",Replace this lambda with a method reference.(¸»¦ûÿÿÿÿ8¨ãº’‹-
+Psquid:S3958>"2Refactor the code so this stream pipeline is used.(ÏÜ®†8Óä®’‹-
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(İó‘ÿÿÿÿÿ8¨ãº’‹-
+n
+squid:S128;"LEnd this switch case with an unconditional break, return or throw statement.(ŸÆĞÙùÿÿÿÿ8«®®’‹-
+Usquid:S3958<"2Refactor the code so this stream pipeline is used.(¼˜Ÿüÿÿÿÿ8«®®’‹-
+n
+squid:S1289"LEnd this switch case with an unconditional break, return or throw statement.(Î‘Í¾ıÿÿÿÿ8­®’‹-
+Isquid:S1612¥",Replace this lambda with a method reference.(çŸéÔşÿÿÿÿ
+Jsquid:S1172"3Remove this unused method parameter "jsonFilename".(Ñƒ’œ
+Ksquid:S1612¶",Replace this lambda with a method reference.(‹œÅı8¨ãº’‹-
+Isquid:S1612¥",Replace this lambda with a method reference.(çŸéÔşÿÿÿÿ
+`squid:S1854:"=Remove this useless assignment to local variable "carStream".(§‘úÿÿÿÿ8­®’‹-
+Usquid:S3958:"2Refactor the code so this stream pipeline is used.(§‘úÿÿÿÿ8­®’‹-
+nsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8¨ãº’‹-
+Rsquid:S1172—".Remove this unused method parameter "myColor".(»íÌèüÿÿÿÿ8¨ãº’‹-
+Psquid:S1612Ø",Replace this lambda with a method reference.(ŸµÒ§üÿÿÿÿ8¨ãº’‹-
+esquid:S2259C"GA "NullPointerException" could be thrown; "carStream" is nullable here.(Ê°©±8®ßµ’‹-
+W
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(¡È§ğ8¨ãº’‹-
+jsquid:S1301¾"KReplace this "switch" statement by "if" statements to increase readability.(Æø—Ø8¨ãº’‹-
+U
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(æÂüÿÿÿÿ
+Psquid:S1612°",Replace this lambda with a method reference.(¦½²„úÿÿÿÿ8¨ãº’‹-
+`squid:S1854<"=Remove this useless assignment to local variable "carStream".(¼˜Ÿüÿÿÿÿ8«®®’‹-
+Psquid:S1612³",Replace this lambda with a method reference.(ŸµÒ§üÿÿÿÿ8¨ãº’‹-
+P
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(€¨Í·
+[squid:S1854>"=Remove this useless assignment to local variable "carStream".(ÏÜ®†8Óä®’‹-
+asquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(€¨¾:
+osquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(ÂÛÉèÿÿÿÿÿ8¨ãº’‹-
+Psquid:S1612¨",Replace this lambda with a method reference.(¹”ªÖùÿÿÿÿ8¨ãº’‹-
+P
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(ªÊ¬í
+U
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(®²ê‡úÿÿÿÿ
+Psquid:S1612¦",Replace this lambda with a method reference.(¸»¦ûÿÿÿÿ8¨ãº’‹-
+osquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(Ûø¾öûÿÿÿÿ8¨ãº’‹-
+n
+squid:S128="LEnd this switch case with an unconditional break, return or throw statement.(›ĞÒ—ÿÿÿÿÿ8Óä®’‹-
+Psquid:S1612¨",Replace this lambda with a method reference.(¹”ªÖùÿÿÿÿ8¨ãº’‹-

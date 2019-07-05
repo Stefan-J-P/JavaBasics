@@ -1,0 +1,125 @@
+{
+  "cars": [
+    {
+      "model": "FIAT",
+      "price": 55347,
+      "color": "YELLOW",
+      "mileage": 4457,
+      "components": [
+        "AIR BAG",
+        "GPS",
+        "AIR CONDITION"
+      ]
+    },
+    {
+      "model": "MERCEDES",
+      "price": 172000,
+      "color": "WHITE",
+      "mileage": 9963,
+      "components": [
+        "AIR CONDITION",
+        "RADIO",
+        "USB"
+      ]
+    },
+    {
+      "model": "BMW",
+      "price": 172000,
+      "color": "BLACK",
+      "mileage": 3745,
+      "components": [
+        "CRUISE CONTROL",
+        "BLUETOOTH",
+        "HOOK"
+      ]
+    },
+    {
+      "model": "AUDI",
+      "price": 111000,
+      "color": "BLACK",
+      "mileage": 5767,
+      "components": [
+        "RAIN SENSOR",
+        "ALLOY WHEELS",
+        "AIR BAG"
+      ]
+    },
+    {
+      "model": "FIAT",
+      "price": 39000,
+      "color": "SILVER",
+      "mileage": 1123,
+      "components": [
+        "ABS",
+        "ASR",
+        "AIR BAG"
+      ]
+    },
+    {
+      "model": "OPEL",
+      "price": 77300,
+      "color": "SILVER",
+      "mileage": 2732,
+      "components": [
+        "AIR CONDITION",
+        "WEBASTO",
+        "HOOK"
+      ]
+    },
+    {
+      "model": "NISSAN",
+      "price": 97540,
+      "color": "SILVER",
+      "mileage": 2346,
+      "components": [
+        "HALDEX",
+        "LOCK UP",
+        "WEBASTO"
+      ]
+    },
+    {
+      "model": "PEUGEOT",
+      "price": 103456,
+      "color": "RED",
+      "mileage": 7347,
+      "components": [
+        "AIR CONDITION",
+        "HEATED SEAT",
+        "RADIO"
+      ]
+    },
+    {
+      "model": "TOYOTA",
+      "price": 85346,
+      "color": "GREEN",
+      "mileage": 6321,
+      "components": [
+        "ALLOY WHEELS",
+        "RADIO",
+        "GPS"
+      ]
+    },
+    {
+      "model": "HONDA",
+      "price": 105345,
+      "color": "BLUE",
+      "mileage": 3379,
+      "components": [
+        "AUTOMATIC TRANSMISSION",
+        "AIR BAG",
+        "REVERSE CAMERA"
+      ]
+    },
+    {
+      "model": "BMW",
+      "price": 115721,
+      "color": "BLUE",
+      "mileage": 5667,
+      "components": [
+        "SIDE AIRBAGS",
+        "PARKING SENSORS",
+        "HEATED SEATS"
+      ]
+    }
+  ]
+}

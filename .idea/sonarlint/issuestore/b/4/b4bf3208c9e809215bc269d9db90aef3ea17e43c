@@ -1,0 +1,23 @@
+
+hsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(á˜¼X8ù·½’‹-
+V
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ÕžäÇ8ù·½’‹-
+gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ò†­ýÿÿÿÿ
+Csquid:S1481"'Remove this unused "c1" local variable.(‡­È´þÿÿÿÿ
+isquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(Ï´è»8ù·½’‹-
+Rsquid:S1854"6Remove this useless assignment to local variable "c1".(‡­È´þÿÿÿÿ
+nsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(½¨äøÿÿÿÿ8ù·½’‹-
+isquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(À¾¥”8ù·½’‹-
+Msquid:S1481("6Remove this unused "carsJsonConverter" local variable.(›¹©Ý
+hsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(Ìè‹-8½Êì‹-
+gsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(­ÐÆúÿÿÿÿ
+nsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(×–¶Ëþÿÿÿÿ8×ë‹-
+asquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(Žäíj
+nsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(å½ÿµþÿÿÿÿ8Ä±ì‹-
+isquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(¿’8ù·½’‹-
+nsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(œÐûÿÿÿÿ8ù·½’‹-
+Psquid:S1481 "4Remove this unused "carJsonFilename" local variable.(Ã¹úüÿÿÿÿ
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ŒÑÐ‡8ô‘›’‹-
+_squid:S1854 "CRemove this useless assignment to local variable "carJsonFilename".(Ã¹úüÿÿÿÿ
+\squid:S1854("ERemove this useless assignment to local variable "carsJsonConverter".(›¹©Ý

@@ -1,0 +1,23 @@
+
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(­Ö¹§úÿÿÿÿ8´£õ’‹-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê›èşÿÿÿÿ8Œà’‹-
+Xsquid:UnusedPrivateMethod4",Remove this unused private "option1" method.(±½³8´£õ’‹-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(äÌû8´£õ’‹-
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(úÿÜ´8Ğ¯å’‹-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ©òËúÿÿÿÿ8øàŞ’‹-
+U
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Æö8´£õ’‹-
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ñş„¯úÿÿÿÿ8´£õ’‹-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(·«Üùüÿÿÿÿ8Œà’‹-
+Ÿsquid:S11864"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±½³8´£õ’‹-
+n
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8´£õ’‹-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(·ÌÀéúÿÿÿÿ8´£õ’‹-
+?squid:S1170"!Make this final field static too.(µ”¤Æ8ÏÉÏ’‹-

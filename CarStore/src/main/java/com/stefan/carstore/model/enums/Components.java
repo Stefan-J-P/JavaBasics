@@ -1,0 +1,20 @@
+package com.stefan.carstore.model.enums;
+
+public enum Components
+{
+    GPS,
+    AIR_CONDITION,
+    PARKING_HEATER,
+    CRUISE_CONTROL,
+    SIDE_AIRBAGS,
+    BLUETOOTH,
+    REVERSE_CAMERA,
+    PARKING_SENSOR,
+    RAIN_SENSOR,
+    HEATED_MIRRORS,
+    HEATED_FRONT_WINDSCREEN,
+    HEATED_SEATS,
+    START_STOP_SYSTEM,
+    ALLOY_WHEEL,
+    HOOK
+}
